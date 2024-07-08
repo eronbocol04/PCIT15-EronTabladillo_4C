@@ -43,7 +43,7 @@ const LeftBanner = () => {
             <a href="https://x.com/BocolEron5642" className="bannerIcon">
               <FaTwitter />
             </a>
-            <a href="https://github.com/eronbocol04/PCIT15_EronTabladillo4C" className="bannerIcon">
+            <a href="https://github.com/eronbocol04/PCIT15-EronTabladillo_4C" className="bannerIcon">
               <FaGithub />
             </a>
           </div>
@@ -54,7 +54,7 @@ const LeftBanner = () => {
           </h2>
           <div className="flex gap-4">
             <span className="bannerIcon">
-              <a href="https://github.com/eronbocol04/PCIT15_EronTabladillo_4C.git" target="_blank" rel="noopener noreferrer">
+              <a href="https://pcit-15-eron-tabladillo-4-dwj8wes3c-eronbocol04s-projects.vercel.app" target="_blank" rel="noopener noreferrer">
                 <FaGithub />
               </a>
             </span>
